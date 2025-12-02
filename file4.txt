@@ -1,1 +1,2 @@
 move this back to untracked/unstage area
+second line inserted
